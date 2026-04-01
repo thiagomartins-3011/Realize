@@ -1,0 +1,12 @@
+C:\Users\Thiag\source\repos\projetofinalUC620\bin\Debug\projetofinalUC620.exe.config
+C:\Users\Thiag\source\repos\projetofinalUC620\bin\Debug\projetofinalUC620.exe
+C:\Users\Thiag\source\repos\projetofinalUC620\bin\Debug\projetofinalUC620.pdb
+C:\Users\Thiag\source\repos\projetofinalUC620\obj\Debug\projetofinalUC620.csproj.AssemblyReference.cache
+C:\Users\Thiag\source\repos\projetofinalUC620\obj\Debug\projetofinalUC620.Form1.resources
+C:\Users\Thiag\source\repos\projetofinalUC620\obj\Debug\projetofinalUC620.Properties.Resources.resources
+C:\Users\Thiag\source\repos\projetofinalUC620\obj\Debug\projetofinalUC620.csproj.GenerateResource.cache
+C:\Users\Thiag\source\repos\projetofinalUC620\obj\Debug\projetofinalUC620.csproj.CoreCompileInputs.cache
+C:\Users\Thiag\source\repos\projetofinalUC620\obj\Debug\projetofinalUC620.exe
+C:\Users\Thiag\source\repos\projetofinalUC620\obj\Debug\projetofinalUC620.pdb
+C:\Users\Thiag\source\repos\projetofinalUC620\obj\Debug\projetofinalUC620.exe.config
+C:\Users\Thiag\source\repos\projetofinalUC620\obj\Debug\projetofinalUC620.FormPostItsConcluidos.resources
